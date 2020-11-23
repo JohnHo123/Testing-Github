@@ -1,0 +1,10 @@
+!SESSION 2020-05-09 09:21:29.524 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0-25
+java.vendor=Microsoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-40c6742f-13ad-4f1b-aeab-3f9cde23ef42
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Users\TUNG DIEP\TD\Projects\Android2\.workspace javapkgsrv-40c6742f-13ad-4f1b-aeab-3f9cde23ef42
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-05-09 10:30:47.171
+!MESSAGE The workspace will exit with unsaved changes in this session.

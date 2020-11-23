@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\TUNG DIEP\TD\Projects\Android3\.workspace\.metadata\.plugins\org.eclipse.jdt.core
+3332666795.index
